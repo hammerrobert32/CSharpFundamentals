@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects\CSharpFundamentals\01_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\01_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\01_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\01_Types\bin\Debug\01_Types.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\01_Types\bin\Debug\01_Types.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\01_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\01_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\01_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\CSharpFundamentals\01_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\CSharpFundamentals\01_Types\obj\Debug\01_Types.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\01_Types\obj\Debug\01_Types.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\01_Types\obj\Debug\01_Types.csproj.CopyComplete
+C:\ElevenFiftyProjects\CSharpFundamentals\01_Types\obj\Debug\01_Types.dll
+C:\ElevenFiftyProjects\CSharpFundamentals\01_Types\obj\Debug\01_Types.pdb
